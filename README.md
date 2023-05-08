@@ -44,7 +44,7 @@ Recently started getting into **js** for more web oriented tasks
 
 
 
-#### ![](https://geps.dev/progress/20) Reveal.js
+#### ![](https://geps.dev/progress/30) Reveal.js
 
 <hr>
 
