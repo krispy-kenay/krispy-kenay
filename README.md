@@ -22,7 +22,7 @@ Here are a few projects I'm currently working on:
 
 ## Skills
 
-### Languages
+### Programming
 
 
 
@@ -34,7 +34,7 @@ About 1 year of experience, mainly in data science and machine learning (ML)
 
 Currently learning Rust in my spare time.
 
-#### ![](https://geps.dev/progress/10) JavaScript 
+#### ![](https://geps.dev/progress/20) JavaScript 
 
 Recently started getting into **js** for more web oriented tasks
 
@@ -44,7 +44,7 @@ Recently started getting into **js** for more web oriented tasks
 
 
 
-#### ![](https://geps.dev/progress/30) Reveal.js
+#### ![](https://geps.dev/progress/30) HTML/CSS
 
 <hr>
 
