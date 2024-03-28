@@ -4,51 +4,30 @@
 
 # Hi there 👋
 
-Welcome to my GitHub profile! Here's a little about me:
-
-- 🔭 I’m currently working on: **A finite element solver in Rust**
-- 🌱 I’m currently learning: **Rust, JavaScript, Python**
-
-
-<!--
-- 💬 Ask me about [Your Expertise or Interests]
-- 📫 How to reach me: [Your Email Address or Social Media Handles]
-- 😄 Pronouns: [Your Preferred Pronouns]
+I'm Yannick, a 25 years old material scientist from Switzerland.
+Welcome to my GitHub profile!
 
 ## Projects
 
-Here are a few projects I'm currently working on:
+* [**SPH Fluid Simulation in JS:**](https://github.com/krispy-kenay/fluid-sim)  Explores fluid simulation using SPH in JavaScript. (Physics simulation, web dev)
 
-- [Project 1 Name](Project 1 Link)
-- [Project 2 Name](Project 2 Link)
-- [Project 3 Name](Project 3 Link)
--->
+* [**Data-driven Search of New Materials with Negative Thermal Expansion:**](https://github.com/krispy-kenay/DdSoNMwNTE)  Used machine learning to find materials with negative thermal expansion. (Machine learning, materials science)
+
+* [**Ab-initio Study of Orbital Occupation Effects on Altermagnetism in Hematite:**](https://github.com/krispy-kenay/vasp-analyzer) Analyzed ab-initio data to study orbital effects on altermagnetism in hematite (Scientific computing, materials research)
 
 ## Skills
 
-### Programming
+| Proficiency | Language | Experience |
+| ------------- | ------------- | :------------- | 
+| ![](https://geps.dev/progress/70) | Python | ~2 years of experience, in data science/processing and machine learning |
+| ![](https://geps.dev/progress/60) | HTML/CSS | ~1 year of experience, in website design |
+| ![](https://geps.dev/progress/50) | Javascript | ~1 year of experience, in website backend |
+| ![](https://geps.dev/progress/30) | Rust | <1 year of experience, in small personal projects |
 
+## Passions
 
-
-#### ![](https://geps.dev/progress/70) Python  
-
-About 1 year of experience, mainly in data science and machine learning (ML)
-
-#### ![](https://geps.dev/progress/40) Rust 
-
-Currently learning Rust in my spare time.
-
-#### ![](https://geps.dev/progress/20) JavaScript 
-
-Recently started getting into **js** for more web oriented tasks
-
-<hr>
-
-### Web Development
-
-
-
-#### ![](https://geps.dev/progress/30) HTML/CSS
+* I'm fascinated by the potential of machine learning to accelerate materials discovery.
+* In my free time, I enjoy building and tinkering with electronic projects.
 
 <hr>
 
