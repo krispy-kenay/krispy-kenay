@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/krispy-kenay/krispy-kenay/master/title.svg" alt="Yannick G." />
+</h1>
+
 # Hi there 👋
 
 Welcome to my GitHub profile! Here's a little about me:
