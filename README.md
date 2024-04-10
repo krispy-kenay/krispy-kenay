@@ -20,8 +20,8 @@ Welcome to my GitHub profile!
 | Proficiency | Language | Experience |
 | ------------- | ------------- | :------------- | 
 | ![](https://geps.dev/progress/70) | Python | ~2 years of experience, in data science/processing and machine learning |
-| ![](https://geps.dev/progress/60) | HTML/CSS | ~1 year of experience, in website design |
-| ![](https://geps.dev/progress/50) | Javascript | ~1 year of experience, in website backend |
+| ![](https://geps.dev/progress/60) | HTML/CSS | <1 year of experience, small web projects |
+| ![](https://geps.dev/progress/50) | Javascript | <1 year of experience, scripting for above projects |
 | ![](https://geps.dev/progress/30) | Rust | <1 year of experience, in small personal projects |
 
 ## Passions
