@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 ## Projects
 
-* [**SPH Fluid Simulation in JS:**](https://github.com/krispy-kenay/fluid-sim)  Explores fluid simulation using SPH in JavaScript. (Physics simulation, web dev)
+* [**SPH Fluid Simulation in JS:**]([https://github.com/krispy-kenay/fluid-sim](https://krispy-kenay.github.io/particle-hydrodynamics/))  Explores fluid simulation using SPH in JavaScript. (Physics simulation, web dev)
 
 * [**Data-driven Search of New Materials with Negative Thermal Expansion:**](https://github.com/krispy-kenay/DdSoNMwNTE)  Used machine learning to find materials with negative thermal expansion. (Machine learning, materials science)
 
